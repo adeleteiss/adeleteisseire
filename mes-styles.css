@@ -1,0 +1,53 @@
+body {
+  background-color:#008080;
+  letter-spacing:.0em;
+  image
+}
+
+.p1 {
+	text-align: center;
+	color: ghostwhite;
+	font-family:arial,serif;
+}
+
+p {
+	font-family:arial,serif;
+ 	text-align: center;
+
+}
+
+h1 {
+	color: ghostwhite;
+	font-style: bold, italic;
+	text-decoration: underline;
+	font-family:arial,serif; 
+	text-align: center;
+}
+
+h2 {
+	color: ghostwhite;
+	font-style: bold;
+	text-decoration: underline;
+	font-family:arial,serif;
+	text-align: center;
+}
+
+h3 {
+	font-style: underline;
+	font-family:arial,serif;
+	text-align: center;
+}
+
+.card-white {
+  background-color: white;
+  width: 75%;
+  border-radius: 7px;
+  margin: 24px auto;
+  text-align: center;
+  padding: 24px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
